@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Colors 0.1
+## DefaultState: enabled
+## Notes: Control the color of chat text
+## Version 0.1
+## Author: Brendan Gadd
+Colors.lua
